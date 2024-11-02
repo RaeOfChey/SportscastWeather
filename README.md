@@ -1,5 +1,7 @@
 # SportscastWeather
 
+### Status: In Progress
+
 ![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Table of Contents
@@ -51,16 +53,10 @@ Example Response:
 This project is licensed under the MIT License, which allows you to freely use, modify, and distribute this software, provided proper attribution is given.
 
 ## Contributing
-Contributions are welcome!  If you'd like to contribute to this project, follow the steps below.
-
-- Step 1: Fork the repository.
-- Step 2: Create a feature branch: git checkout -b feature/new-feature
-- Step 3: Commit your changes: git commit -m "Add new feature"
-- Step 4: Push to the branch: git push origin feature/new-feature
-- Step 5: Open a pull request.
+This project is part of a coding bootcamp assignment and is not open for contributions. To comply with the course requirements, I must complete this project individually without outside assistance. Therefore, pull requests, issues, or other contributions will not be accepted. Thank you for understanding!
 
 ## Tests
-Currently, this project does not have any automated tests. However, if you'd like to add tests, feel free to contribute! You can set up testing using a framework like Mocha or Jest.
+Currently, this project does not have any automated tests.
 
 ## Questions
-If you have any questions about the repository, feel free to reach out by opening an issue or contacting me directly at cheyennaraelynn@gmail.com You can also find more of my work on GitHu at https://github.com/RaeOfChey.
+If you have any questions about the repository, feel free to reach out by opening an issue or contacting me directly at cheyennaraelynn@gmail.com You can also find more of my work on GitHub at https://github.com/RaeOfChey.
